@@ -19,7 +19,7 @@
 🚀 Este é o meu jeito – aspiro evoluir, compartilhar conquistas e conhecimentos.
 
 <div>
-<img align="right" alt="Mariana-Schlick-Dev" height="300" width="300" src="./dev.png">
+<img align="left" alt="Mariana-Schlick-Dev" height="300" width="300" src="./dev.png">
 </div>
 
 ## Linguagens e Ferramentas
@@ -50,6 +50,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-## Entre em Contato
-
-📫 Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/mariana-schlickmann/) para colaborações profissionais.
