@@ -1,4 +1,6 @@
-# Olá! 👋
+<div>
+<img align="left" alt="Mariana-Schlick" height="300" width="300" src="./me.png">
+</div>
 
 ## Sobre mim
 
@@ -17,6 +19,10 @@
 🚀 Este é o meu jeito – aspiro evoluir, compartilhar conquistas e conhecimentos.
 
 ## Linguagens e Ferramentas
+
+<div>
+<img align="right" alt="Mariana-Schlick" height="400" width="400" src="./dev.png">
+</div>
 
 ### Linguagens de Programação
 
@@ -45,7 +51,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Entre em Contato
-<div>
-<img align="right" alt="Mariana-Schlick" src="">
-</div>
+
 📫 Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/mariana-schlickmann/) para colaborações profissionais.
