@@ -1,5 +1,5 @@
 <div>
-<img align="left" alt="Mariana-Schlick" height="300" width="300" src="./me.png">
+<img align="left" alt="Mariana-Schlick-Hello" height="300" width="300" src="./me.png">
 </div>
 
 ## Sobre mim
@@ -18,11 +18,11 @@
 
 🚀 Este é o meu jeito – aspiro evoluir, compartilhar conquistas e conhecimentos.
 
-## Linguagens e Ferramentas
-
 <div>
-<img align="right" alt="Mariana-Schlick" height="400" width="400" src="./dev.png">
+<img align="right" alt="Mariana-Schlick-Dev" height="300" width="300" src="./dev.png">
 </div>
+
+## Linguagens e Ferramentas
 
 ### Linguagens de Programação
 
