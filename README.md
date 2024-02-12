@@ -12,7 +12,7 @@
 
 🌱  Há dois anos, comecei minha transição de carreira para tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, mas já possuo formação em Engenharia Agronômica.
 
-🖥️ No meu segundo semestre de ADS conquistei uma vaga no processo seletivo para estagiar na Logicalis, uma empresa global de soluções e serviços de tecnologia da informação e comunicação com operações na Europa, América do Norte, AMérica do Sul e Ásia-Pacífico.
+🖥️ No meu segundo semestre de ADS conquistei uma vaga no processo seletivo para estagiar na Logicalis, uma empresa global de soluções e serviços de tecnologia da informação e comunicação com operações na Europa, América do Norte, América do Sul e Ásia-Pacífico.
  
 💼 A área da tecnologia que mais me atrai e que tenho estudado bastante é o Desenvolvimento Front-End. Estou buscando me aperfeiçoar para conseguir minha primeira -SONHADA- vaga como Desenvolvedora Front-End.
 
