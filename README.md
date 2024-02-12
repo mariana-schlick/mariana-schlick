@@ -14,7 +14,7 @@
 
 🖥️ No meu segundo semestre de ADS conquistei uma vaga no processo seletivo para estagiar na Logicalis, uma empresa global de soluções e serviços de tecnologia da informação e comunicação com operações na Europa, América do Norte, América do Sul e Ásia-Pacífico.
  
-💼 A área da tecnologia que mais me atrai e que tenho estudado bastante é o Desenvolvimento Front-End. Estou buscando me aperfeiçoar para conseguir minha primeira -SONHADA- vaga como Desenvolvedora Front-End.
+💼 A área da tecnologia que mais me atrai e que tenho estudado bastante é o Desenvolvimento Front-End. Estou buscando me aperfeiçoar para conseguir minha primeira -SONHADA- vaga.
 
 🚀 Este é o meu jeito – aspiro evoluir, compartilhar conquistas e conhecimentos.
 
