@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-💖 Meu nome é Mariana Schlickmann, tenho 29 anos. 
+💖 Meu nome é Mariana Schlickmann, tenho 30 anos. 
 
 🏳️‍🌈 Faço parte da comunidade LGBTQIA+ e tenho um relacionamento sério com uma mulher incrivelmente extraordinária, com quem compartilho a vida há cinco anos.
 
