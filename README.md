@@ -18,11 +18,13 @@
 
 🚀 Este é o meu jeito – aspiro evoluir, compartilhar conquistas e conhecimentos.
 
+<br/>
+
+## Linguagens e Ferramentas
+
 <div>
 <img align="left" alt="Mariana-Schlick-Dev" height="300" width="300" src="./dev.png">
 </div>
-
-## Linguagens e Ferramentas
 
 ### Linguagens de Programação
 
@@ -46,11 +48,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+<br/>
+
+## Estatísticas do GitHub
+
 <div>
 <img align="right" alt="Mariana-Schlick-Enjoy" height="300" width="300" src="./enjoy.png">
 </div>
-
-## Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
