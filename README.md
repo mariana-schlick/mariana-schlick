@@ -14,7 +14,7 @@
 
 🖥️ No meu segundo semestre de ADS conquistei uma vaga no processo seletivo para estagiar na Logicalis, uma empresa global de soluções e serviços de tecnologia da informação e comunicação com operações na Europa, América do Norte, América do Sul e Ásia-Pacífico.
  
-💼 A área da tecnologia que mais me atrai e que tenho estudado bastante é o Desenvolvimento Front-End. Estou buscando me aperfeiçoar para conseguir minha primeira -SONHADA- vaga.
+💼 A área da tecnologia que mais me atrai e que tenho estudado bastante é a de Cibersegurança, porém tenho aquela quedinha pela área de programação e desenvolvimento, com CSS, JavaScript, Java etc, onde sempre estou realizando um projeto ou outro para continuar praticando. Estou buscando me aperfeiçoar para conseguir minha primeira -SONHADA- vaga.
 
 🚀 Este é o meu jeito – aspiro evoluir, compartilhar conquistas e conhecimentos.
 
@@ -23,7 +23,7 @@
 ## Linguagens e Ferramentas
 
 <div>
-<img align="left" alt="Mariana-Schlick-Dev" height="300" width="300" src="./dev.png">
+<img align="left" alt="Mariana-Schlick-Dev" height="350" width="350" src="./dev.png">
 </div>
 
 ### Linguagens de Programação
@@ -47,6 +47,15 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Certificados em Redes e Cibersegurança
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+ <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="FCA" width="50"/>
+ <img src="https://cercoltd.com/news/wp-content/uploads/2023/12/icon-nse-fund-cybersecurity-1024x1024.png" alt="FCF" width="50"/>
+ <img src="https://images.credly.com/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" alt="CCST Cyber" width="50"/>
+ <img src="https://images.credly.com/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/twitter_thumb_201604_image.png" alt="CCST Net" width="50"/>
+</div>
 
 <br/>
 
