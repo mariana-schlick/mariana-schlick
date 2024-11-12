@@ -2,31 +2,31 @@
 <img align="left" alt="Mariana-Schlick-Hello" height="300" width="300" src="./me.png">
 </div>
 
-## Sobre mim
+## About Me
 
-💖 Meu nome é Mariana Schlickmann, tenho 30 anos. 
+💖 My name is Mariana Schlickmann, I am 30 years old.
 
-🏳️‍🌈 Faço parte da comunidade LGBTQIA+ e tenho um relacionamento sério com uma mulher incrivelmente extraordinária, com quem compartilho a vida há cinco anos.
+🏳️‍🌈 I am part of the LGBTQIA+ community and have been in a serious relationship with an incredibly extraordinary woman for the past five years.
 
-👩‍💻 Sou uma entusiasta da tecnologia, apaixonada por Desenvolvimento Web.
+👩‍💻  I am a technology enthusiast, passionate about Development and Cybersecurity.
 
-🌱  Há dois anos, comecei minha transição de carreira para tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, mas já possuo formação em Engenharia Agronômica.
+🌱  Three years ago, I began my career transition into technology. Currently, I am pursuing a degree in Systems Analysis and Development, but I hold a degree in Agronomic Engineering.
 
-🖥️ No meu segundo semestre de ADS conquistei uma vaga no processo seletivo para estagiar na Logicalis, uma empresa global de soluções e serviços de tecnologia da informação e comunicação com operações na Europa, América do Norte, América do Sul e Ásia-Pacífico.
+🖥️ In the second semester of my ADS course, I secured an internship at Logicalis, a global company offering IT and communication solutions and services with operations in Europe, North America, South America, and Asia-Pacific.
  
-💼 A área da tecnologia que mais me atrai e que tenho estudado bastante é a de Cibersegurança, porém tenho aquela quedinha pela área de programação e desenvolvimento, com CSS, JavaScript, Java etc, onde sempre estou realizando um projeto ou outro para continuar praticando. Estou buscando me aperfeiçoar para conseguir minha primeira -SONHADA- vaga.
+💼 The area of technology that excites me most, and which I have been studying intensively, is Cybersecurity. However, I also have a soft spot for programming and development, using CSS, JavaScript, Java, etc., where I am constantly working on personal projects to continue practicing. I am focused on honing my skills to land my first - DREAMED - job in the field.
 
-🚀 Este é o meu jeito – aspiro evoluir, compartilhar conquistas e conhecimentos.
+🚀 This is who I am – I aspire to evolve, share achievements, and spread knowledge.
 
 <br/>
 
-## Linguagens e Ferramentas
+## Languages and Tools
 
 <div>
 <img align="left" alt="Mariana-Schlick-Dev" height="350" width="350" src="./dev.png">
 </div>
 
-### Linguagens de Programação
+### Programming Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -35,20 +35,20 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frameworks e Bibliotecas
+### Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Ferramentas de Desenvolvimento
+### Development Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Certificados em Redes e Cibersegurança
+### Certifications in Networks and Cybersecurity
 
 <div style="display: flex; justify-content: center; gap: 10px;">
  <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="FCA" width="50"/>
@@ -59,7 +59,7 @@
 
 <br/>
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 <div>
 <img align="right" alt="Mariana-Schlick-Enjoy" height="300" width="300" src="./enjoy.png">
