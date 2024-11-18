@@ -65,5 +65,5 @@
 <img align="right" alt="Mariana-Schlick-Enjoy" height="300" width="300" src="./enjoy.png">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) 
 
