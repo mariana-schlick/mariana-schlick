@@ -6,7 +6,7 @@
 
 💖 My name is Mariana Schlickmann, I am 30 years old.
 
-🏳️‍🌈 I am part of the LGBTQIA+ community and have been in a serious relationship with an incredibly extraordinary woman for the past five years.
+🏳️‍🌈 I am part of the LGBTQIA+ community and have been in a serious relationship with an incredibly extraordinary woman.
 
 👩‍💻  I am a technology enthusiast, passionate about Development and Cybersecurity.
 
@@ -14,7 +14,7 @@
 
 🖥️ In the second semester of my ADS course, I secured an internship at Logicalis, a global company offering IT and communication solutions and services with operations in Europe, North America, South America, and Asia-Pacific.
  
-💼 The area of technology that excites me most, and which I have been studying intensively, is Cybersecurity. However, I also have a soft spot for programming and development, using CSS, JavaScript, Java, etc., where I am constantly working on personal projects to continue practicing. I am focused on honing my skills to land my first - DREAMED - job in the field.
+💼 The area of technology that excites me the most, and which I have been studying intensively, is Full Stack Development, utilizing technologies like CSS, JavaScript, Java, Angular, and more. However, I also have a passion for Cybersecurity, where I actively work on personal projects to continue practicing and improving my skills. My primary focus is on honing my abilities to secure MY FIRST DREAM JOB.
 
 🚀 This is who I am – I aspire to evolve, share achievements, and spread knowledge.
 
