@@ -6,7 +6,7 @@
 
 💖 Meu nome é Mariana Schlickmann, tenho 30 anos, sou natural de Santa Catarina.
 
-🏳️‍🌈 Faço parte da comunidade LGBTQIA+ e estou em um relacionamento sério com uma mulher, pesqusiadora, mestre, incrível e extraordinária. Temos uma cachorrinha chamada Matilda, e uma gatinha espuleta chamada Capitu. Minha forma de aproveitar o tempo livre é assistindo séries, praticando esportes, indo ao cinema, realizando alguns trabalhos manuais em casa, com marcenaria ou pintura, passando o dia com amigos ou família, sempre com jogos de tabuleiro ou digitais, tenho o famoso dedo verde, amo plantas e botânica, o que considero minha verdadeira vocação. Estou sempre em busca de conhecimento e coisas novas para provar e me divertir, sou ótima cozinhando, já atuei em algumas cozinhas profissionais, atualmente estou me arriscando na arte do bordado.
+🏳️‍🌈 Faço parte da comunidade LGBTQIA+ e estou em um relacionamento sério com uma mulher, pesquisadora, mestre, incrível e extraordinária. Temos uma cachorrinha chamada Matilda, e uma gatinha espoleta chamada Capitu. Minha forma de aproveitar o tempo livre é assistindo séries, praticando esportes, indo ao cinema, realizando alguns trabalhos manuais em casa, com marcenaria ou pintura, passando o dia com amigos ou família, sempre com jogos de tabuleiro ou digitais, tenho o famoso dedo verde, amo plantas e botânica, o que considero minha verdadeira vocação. Estou sempre em busca de conhecimento e coisas novas para provar e me divertir, sou ótima cozinhando, já atuei em algumas cozinhas profissionais, atualmente estou me arriscando na arte do bordado.
 
 👩‍💻  Sou uma entusiasta de tecnologia, apaixonada por Desenvolvimento e Cibersegurança.
 
