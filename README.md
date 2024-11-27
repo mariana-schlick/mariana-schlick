@@ -77,4 +77,4 @@
 
 ## Extras
 
-🎨 As artes disponíveis aqui foram criadas por mim com o auxílio da ferramenta ![Canva](https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva) .
+🎨 As artes disponíveis neste README foram criadas por mim com o auxílio da ferramenta [![Canva](https://img.shields.io/badge/Canva-FF6F00?style=flat&logo=canva&logoColor=white)](https://www.canva.com).
