@@ -14,7 +14,7 @@
 
 🖥️ No segundo semestre do meu curso de ADS, conquistei um estágio na Logicalis, uma empresa global que oferece soluções e serviços de TI e comunicação, com operações na Europa, América do Norte, América do Sul e Ásia-Pacífico. Durante essa oportunidade pude me aprofundar na área de Redes e Cibersegurança, onde obtive algumas certificações, como: FCA, FCF, CCST Networking e CCST Cybersecurity.
  
-💼 A área de tecnologia que mais me entusiasma, e na qual tenho me dedicado intensamente, é Desenvolvimento Full Stack, utilizando tecnologias como CSS, JavaScript, Java, Angular, entre outras. Além disso, sou apaixonada por Cibersegurança, onde trabalho ativamente em projetos pessoais para continuar praticando e aprimorando minhas habilidades. Meu principal objetivo é lapidar minhas competências para conquistar MEU PRIMEIRO EMPREGO DOS SONHOS.
+💼 A área de tecnologia que mais me entusiasma, e na qual tenho me dedicado intensamente, é Desenvolvimento Full Stack, utilizando tecnologias como CSS, JavaScript, Java, Angular, onde trabalho ativamente em projetos pessoais para continuar praticando e aprimorando minhas habilidades. Meu principal objetivo é lapidar minhas competências para conquistar MEU PRIMEIRO EMPREGO DOS SONHOS.
 
 🚀 Esta sou eu – aspiro evoluir, compartilhar conquistas e espalhar conhecimento.
 
