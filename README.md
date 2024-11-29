@@ -23,7 +23,7 @@
 ## Linguagens e Ferramentas
 
 <div>
-<img align="left" alt="Mariana-Schlick-Dev" height="450" width="450" src="./dev.png">
+<img align="left" alt="Mariana-Schlick-Dev" height="400" width="400" src="./dev.png">
 </div>
 
 ### Linguagens e Ferramentas de Programação
