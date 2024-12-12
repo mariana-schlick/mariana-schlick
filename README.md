@@ -23,7 +23,7 @@
 ## Tecnologias e Ferramentas para Desenvolvimento de Software
 
 <div>
-<img align="left" alt="Mariana-Schlick-Dev" height="450" width="450" src="./dev.png">
+<img align="left" alt="Mariana-Schlick-Dev" height="350" width="350" src="./dev.png">
 </div>
 
 ### Linguagens de Programação e Tecnologias para Web
