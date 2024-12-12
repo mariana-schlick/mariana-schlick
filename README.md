@@ -14,7 +14,7 @@
 
 🖥️ No segundo semestre do meu curso de ADS, conquistei um estágio na Logicalis, uma empresa global que oferece soluções e serviços de TI e comunicação, com operações na Europa, América do Norte, América do Sul e Ásia-Pacífico. Durante essa oportunidade pude me aprofundar na área de Redes e Cibersegurança, onde obtive algumas certificações, como: FCA, FCF, CCST Networking e CCST Cybersecurity.
  
-💼 A área de tecnologia que mais me entusiasma, e na qual tenho me dedicado intensamente, é Desenvolvimento Full Stack, utilizando tecnologias como CSS, JavaScript, Java, React, onde trabalho ativamente em projetos pessoais para continuar praticando e aprimorando minhas habilidades. Meu principal objetivo é lapidar minhas competências para conquistar MEU PRIMEIRO EMPREGO DOS SONHOS.
+💼 A área de tecnologia que mais me entusiasma, e na qual tenho me dedicado intensamente, é Desenvolvimento Full Stack, utilizando tecnologias como HTML, CSS, JavaScript, Java, React, onde trabalho ativamente em projetos pessoais para continuar praticando e aprimorando minhas habilidades. Meu principal objetivo é lapidar minhas competências para conquistar MEU PRIMEIRO EMPREGO DOS SONHOS.
 
 🚀 Esta sou eu – aspiro evoluir, compartilhar conquistas e espalhar conhecimento.
 
@@ -32,15 +32,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Bibliotecas e Frameworks
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostegreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
