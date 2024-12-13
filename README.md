@@ -77,7 +77,7 @@
 <img align="right" alt="Mariana-Schlick-Enjoy" src="./enjoy.png" height="400" width="400">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-schlick&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato  
 
