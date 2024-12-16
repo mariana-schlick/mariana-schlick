@@ -1,20 +1,20 @@
 <div>
-<img align="left" alt="Mariana-Schlick-Hello" height="350" width="350" src="./me.png">
+<img align="left" alt="Mariana-Schlick-Hello" height="400" width="400" src="./me.png">
 </div>
 
 ## Sobre mim
 
-💖 Meu nome é Mariana Schlickmann, tenho 30 anos, sou natural de Tubarão, Santa Catarina, Brasil.
+👋 Olá, sou **Mariana Schlickmann**, 30 anos, de Tubarão (SC), Brasil. Faço parte da comunidade **LGBTQIA+** e sou apaixonada por **tecnologia** e **desenvolvimento**.
 
-🏳️‍🌈 Faço parte da comunidade LGBTQIA+ e estou em um relacionamento sério com uma mulher, pesquisadora, incrível e extraordinária. Temos uma cachorrinha chamada Matilda, e uma gatinha espoleta chamada Capitu. Minha forma de aproveitar o tempo livre é assistindo séries, praticando esportes, indo ao cinema, passando o dia com amigos ou família, sempre com jogos de tabuleiro ou digitais, tenho o famoso dedo verde, amo plantas e botânica, inspiracão de família, além da culinária, sou ótima cozinhando, até já atuei em algumas cozinhas profissionais. Estou sempre em busca de conhecimento e coisas novas para provar e me divertir, atualmente estou me arriscando na grande área da tecnologia.
+💻 Minha jornada profissional começou na **Engenharia Agronômica**, onde aprendi a programar utilizando **Python** e **R** para análise de dados. Há três anos, fiz minha transição de carreira e hoje estou finalizando o curso de **Análise e Desenvolvimento de Sistemas**.
 
-👩‍💻  Sou uma entusiasta de tecnologia, apaixonada por Desenvolvimento. Adoro realizar projetos novos, de todo tipo. Os desafios da programação, a gama de linguagens existentes, cada uma com suas especificações, me encantam. Ver todo o percurso, cada aprendizado adquirido, o resultado final tona-se sempre satisfatório.
+🌱 Durante o estágio na **Logicalis**, me aprofundei em **Redes** e **Cibersegurança**, obtendo certificações como **FCA**, **CCST Networking** e **CCST Cybersecurity**.
 
-🌱  Há três anos, iniciei minha transição de carreira. Estou finalizando o curso de Análise e Desenvolvimento de Sistemas, mas minha jornada com programação e desenvolvimento começou ainda na faculdade de Engenharia Agronômica, minha primeira formação. Durante minha atuação em laboratórios de pesquisa científica, a análise de dados se tornou uma habilidade indispensável. Foi nesse contexto que aprendi a utilizar Python e suas bibliotecas, Pandas e NumPy, além de explorar o uso de R.
+🎯 Meu foco atual é no **Desenvolvimento Full Stack**, com experiência em **Java**, **HTML**, **CSS**, **JavaScript**, **React** e **React Native**. Trabalho em projetos pessoais para aprimorar minhas habilidades e busco constantemente novos desafios.
 
-🖥️ No segundo semestre do meu curso de ADS, conquistei um estágio na Logicalis, uma empresa global que oferece soluções e serviços de TI e comunicação, com operações na Europa, América do Norte, América do Sul e Ásia-Pacífico. Durante essa oportunidade pude me aprofundar na área de Redes e Cibersegurança, onde obtive algumas certificações, como: FCA, FCF, CCST Networking e CCST Cybersecurity.
- 
-💼 A área de tecnologia que mais me entusiasma, e na qual tenho me dedicado intensamente, é Desenvolvimento Full Stack, utilizando tecnologias como HTML, CSS, JavaScript, Java, React, Angular, Typescritpt onde trabalho ativamente em projetos pessoais para continuar praticando e aprimorando minhas habilidades. Meu principal objetivo é lapidar minhas competências para conquistar MEU PRIMEIRO EMPREGO DOS SONHOS.
+💖 Quando não estou codificando, adoro passar tempo com minha esposa e nossas pets, **Matilda** (cachorrinha) e **Capitu** (gata). Amo cozinhar, praticar esportes, jogar e explorar o mundo das plantas!
+
+🔍 **Objetivo**: Conquistar meu **primeiro emprego dos sonhos** na área de tecnologia.
 
 🚀 Esta sou eu – aspiro evoluir, compartilhar conquistas e espalhar conhecimento.
 
@@ -47,8 +47,8 @@
 ### Armazenamento e Análise de Dados
 
 ![PostegreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
@@ -56,9 +56,9 @@
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?style=flat-square&logo=intellij-idea&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ### Certificações em Redes e Cibersegurança
 
