@@ -1,5 +1,5 @@
 <div>
-<img align="left" alt="Mariana-Schlick-Hello" height="400" width="400" src="./me.png">
+<img align="left" alt="Mariana-Schlick-Hello" height="350" width="350" src="./me.png">
 </div>
 
 ## Sobre mim
