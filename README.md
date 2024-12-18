@@ -14,8 +14,7 @@
 
 💖 Quando não estou codificando, adoro passar tempo com minha esposa e nossas pets, **Matilda** (cachorrinha) e **Capitu** (gata). Amo cozinhar, praticar esportes, jogar e explorar o mundo das plantas!
 
-🔍 **Objetivo**: Conquistar meu **primeiro emprego dos sonhos** na área de tecnologia.
-
+🔍 **Objetivo**: Conquistar minha primeira vaga como **Desenvolvedora Júnior**.
 🚀 Esta sou eu – aspiro evoluir, compartilhar conquistas e espalhar conhecimento.
 
 <br/>
