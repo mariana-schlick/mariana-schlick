@@ -10,7 +10,7 @@
 
 🌱 Durante o estágio na **Logicalis**, me aprofundei em **Redes** e **Cibersegurança**, obtendo certificações como **FCA**, **CCST Networking** e **CCST Cybersecurity**.
 
-🎯 Meu foco atual é no **Desenvolvimento Full Stack**, com experiência em **Java**, **HTML**, **CSS**, **JavaScript**, **React** e **React Native**. Trabalho em projetos pessoais para aprimorar minhas habilidades e busco constantemente novos desafios.
+🎯 Meu foco atual é no **Desenvolvimento Full Stack**, com experiência em **Java**, **Spring Boot**, **React** e **SQL**. Trabalho em projetos pessoais para aprimorar minhas habilidades e busco constantemente novos desafios.
 
 💖 Quando não estou codificando, adoro passar tempo com minha esposa e nossas pets, **Matilda** (cachorrinha) e **Capitu** (gata). Amo cozinhar, praticar esportes, jogar e explorar o mundo das plantas!
 
