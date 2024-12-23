@@ -1,87 +1,14 @@
-<div>
-<img align="left" alt="Mariana-Schlick-Hello" height="350" width="350" src="./me.png">
-</div>
+| Programming Languages and Web Technologies<br>![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) <br> ![PostegreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  |
+|------------------------------------------------------------------------------------|
+| About<br><br> 👋 Graduated in Agronomy from UFSC, I had my first contact with technology during my academic journey, working with data analysis in research groups and scientific projects.<br> Three years ago, I began my transition to the technology field and am now close to completing my degree in Systems Analysis and Development (ADS), where I discovered my passion for Full Stack Development, combining Back End and Front End in integrated projects.<br> I developed a strong interest in Java by creating robust and scalable applications in academic projects, utilizing the Spring Framework (Spring Boot, Spring Data, Spring Security). I also explored React and Angular, building dynamic and structured interfaces. Additionally, I gained experience with SQL databases (PostgreSQL and MySQL), consolidating my expertise.<br> During my remote internship at Logicalis, a global company in the information technology sector, I deepened my knowledge in Networks and Cybersecurity, earning certifications such as FCA and FCF, among others. I also acquired experience with tools from Fortinet and Cisco manufacturers.<br><br> 🔍 **Professional Goal**:<br> I am determined to secure my first opportunity as a Full Stack Developer. My goal is to grow as a developer, refine my technical and interpersonal skills, contribute to innovative and impactful technological solutions, and continue learning and sharing knowledge. |
 
-## Sobre mim
+| That's me | GitHub Statistics | Contact |
+|-------|-------------------|---------|
+| &nbsp;&nbsp; <div><img align="left" alt="Mariana-Schlick-Dev" height="400" width="400" src="./dev.png"></div> &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-schlick&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-schlickmann/) &nbsp;&nbsp; <br> &nbsp;&nbsp; [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mariana.silva@gmail.com) &nbsp;&nbsp; <br> &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mariana.schlick) &nbsp;&nbsp; |
 
-👋 Olá, sou **Mariana Schlickmann**, 30 anos, de Tubarão (SC), Brasil. Faço parte da comunidade **LGBTQIA+** e sou apaixonada por **tecnologia** e **desenvolvimento**.
 
-💻 Minha jornada profissional começou na **Engenharia Agronômica**, onde aprendi a programar utilizando **Python** e **R** para análise de dados. Há três anos, fiz minha transição de carreira e hoje estou finalizando o curso de **Análise e Desenvolvimento de Sistemas**.
 
-🌱 Durante o estágio na **Logicalis**, me aprofundei em **Redes** e **Cibersegurança**, obtendo certificações como **FCA**, **CCST Networking** e **CCST Cybersecurity**.
-
-🎯 Meu foco atual é no **Desenvolvimento Full Stack**, com experiência em **Java**, **Spring Boot**, **React** e **SQL**. Trabalho em projetos pessoais para aprimorar minhas habilidades e busco constantemente novos desafios.
-
-💖 Quando não estou codificando, adoro passar tempo com minha esposa e nossas pets, **Matilda** (cachorrinha) e **Capitu** (gata). Amo cozinhar, praticar esportes, jogar e explorar o mundo das plantas!
-
-🔍 **Objetivo**: Conquistar minha primeira vaga como **Desenvolvedora Júnior**.
-🚀 Esta sou eu – aspiro evoluir, compartilhar conquistas e espalhar conhecimento.
-
-<br/>
-
-## Tecnologias e Ferramentas para Desenvolvimento de Software
-
-<div>
-<img align="left" alt="Mariana-Schlick-Dev" height="350" width="350" src="./dev.png">
-</div>
-
-### Linguagens de Programação e Tecnologias para Web
-
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frameworks e Tecnologias para Desenvolvimento
-
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Armazenamento e Análise de Dados
-
-![PostegreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### IDEs e Versionamento
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?style=flat-square&logo=intellij-idea&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
-### Certificações em Redes e Cibersegurança
-
-<div style="display: flex; justify-content: center; gap: 10;">
- <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="FCA" width="50"/>
- <img src="https://cercoltd.com/news/wp-content/uploads/2023/12/icon-nse-fund-cybersecurity-1024x1024.png" alt="FCF" width="50"/>
- <img src="https://images.credly.com/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" alt="CCST Cyber" width="50"/>
- <img src="https://images.credly.com/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/twitter_thumb_201604_image.png" alt="CCST Net" width="50"/>
-</div>
-
-<br/>
-
-## Estatísticas do Github
-
-<div>
-<img align="right" alt="Mariana-Schlick-Enjoy" src="./enjoy.png" height="400" width="400">
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-schlick&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contato  
-
-- [LinkedIn](https://linkedin.com/in/marianaschlickmann) | [E-mail](mailto:mariana.silva@email.com) | [Instagram](https://instagram.com/mariana.schlick)
 
 ## Extras
 
-🎨 As artes disponíveis neste README foram criadas por mim com o auxílio da ferramenta [![Canva](https://img.shields.io/badge/Canva-FF6F00?style=flat&logo=canva&logoColor=white)](https://www.canva.com).
+🎨 The artwork available in this README was created by me with the help of the tool [![Canva](https://img.shields.io/badge/Canva-FF6F00?style=flat&logo=canva&logoColor=white)](https://www.canva.com).
